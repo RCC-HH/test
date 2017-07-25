@@ -18,6 +18,7 @@ public class Prog {
 		System.out.println("Das ist mein Test für Maven und Git");
 		
 		System.out.println("Das ist mein Test für ein Commit auf Git");
+		
 
 	}
 
