@@ -19,7 +19,6 @@ public class Prog {
 		
 		System.out.println("Das ist mein Test für ein Commit auf Git");
 		
-
 		System.out.println("Das ist mein Test für ein Commit auf Git");
 	}
 
