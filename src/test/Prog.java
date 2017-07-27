@@ -20,6 +20,20 @@ public class Prog {
 		System.out.println("Das ist mein Test für ein Commit auf Git");
 		
 		System.out.println("Das ist mein Test für ein Commit auf Git");
+		
+		/*
+		
+		//Dependency über Maven ?
+		Maven2 Output = new Maven2();
+		
+		Output.test();
+		
+		*/
+		
+		
+		
+		
+		
 	}
 
 }
